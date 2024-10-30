@@ -15,6 +15,8 @@ This project analyzes and visualizes data on lifestyle sustainability, examining
 - **Data Visualization**: Explored trends and correlations between lifestyle choices and sustainability scores through histograms, scatter plots, and bar charts.
 - **Machine Learning Model**: Built a predictive model to estimate sustainability scores based on selected lifestyle features.
 
+Link - (https://github.com/Rakeek/Data-Analytics-ML/blob/main/data%20visualizatin%20%26%20ML%20project%20on%20Lifestyle%20Sustainability.ipynb)
+
 #### Libraries Used:
 - `pandas` and `numpy` for data manipulation
 - `matplotlib` and `seaborn` for data visualization
@@ -28,7 +30,9 @@ This project provides insights into TV shows, focusing on visualizing trends in 
 - **Data Cleaning**: Removed duplicates and handled missing values to prepare the dataset for analysis.
 - **Data Visualization**: Created visualizations such as box plots, line charts, and heatmaps to explore show ratings and trends by genre and season count.
 - **Machine Learning Model**: Developed a model to predict TV show ratings, leveraging features extracted from the dataset.
-  
+
+Link - (https://github.com/Rakeek/Data-Analytics-ML/blob/main/Data%20visualization%20%26%20ML%20Project%20on%20TVShow.ipynb)
+
 #### Libraries Used:
 - `pandas` and `numpy` for data manipulation
 - `matplotlib` and `seaborn` for data visualization
